@@ -1,2 +1,4 @@
 This is my temporary file 1 for git learning.
 adding more content to file 1.
+
+2024 footer note.
