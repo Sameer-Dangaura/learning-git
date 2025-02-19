@@ -6,3 +6,5 @@ Fourth bug fixed.
 Fifth bug fixed.
 
 Another fixes for pink mode.
+
+Another fixes for purple mode.
